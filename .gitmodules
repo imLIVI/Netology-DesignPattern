@@ -1,4 +1,6 @@
 [submodule "HW.1.1.People-Builder"]
 	path = HW.1.1.People-Builder
 	url = https://github.com/imLIVI/DesignPattern-Builder.git
-
+[submodule "HW.1.2.Logger-Singleton"]
+	path = HW.1.2.Logger-Singleton
+	url = https://github.com/imLIVI/DesignPattern-Logger.git
