@@ -10,3 +10,7 @@
 [submodule "HW.2.2.BinaryFacade-Facade"]
 	path = HW.2.2.BinaryFacade-Facade
 	url = https://github.com/imLIVI/DesignPattern-Facade.git
+[submodule "HW.3.1.InfiniteIteration-Iterator"]
+	path = HW.3.1.InfiniteIteration-Iterator
+	url = https://github.com/imLIVI/DesignPattern-Iterator.git
+
