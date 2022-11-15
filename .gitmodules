@@ -7,3 +7,6 @@
 [submodule "HW.2.1.Calculator-Adapter"]
 	path = HW.2.1.Calculator-Adapter
 	url = https://github.com/imLIVI/DesignPattern-Adapter.git
+[submodule "HW.2.2.BinaryFacade-Facade"]
+	path = HW.2.2.BinaryFacade-Facade
+	url = https://github.com/imLIVI/DesignPattern-Facade.git
