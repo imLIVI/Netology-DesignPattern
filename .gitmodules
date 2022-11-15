@@ -4,3 +4,6 @@
 [submodule "HW.1.2.Logger-Singleton"]
 	path = HW.1.2.Logger-Singleton
 	url = https://github.com/imLIVI/DesignPattern-Logger.git
+[submodule "HW.2.1.Calculator-Adapter"]
+	path = HW.2.1.Calculator-Adapter
+	url = https://github.com/imLIVI/DesignPattern-Adapter.git
